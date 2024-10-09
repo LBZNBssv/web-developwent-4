@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@example.com",
+      "dateOfBirth": "1990-01-01",
+      "preferences": {
+        "theme": "dark",
+        "language": "English",
+        "notifications": true
+      }
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "janesmith@example.com",
+      "dateOfBirth": "1985-05-15",
+      "preferences": {
+        "theme": "light",
+        "language": "Spanish",
+        "notifications": false
+      }
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "email": "alicejohnson@example.com",
+      "dateOfBirth": "1992-08-30",
+      "preferences": {
+        "theme": "dark",
+        "language": "French",
+        "notifications": true
+      }
+    }
+  ]
+}
